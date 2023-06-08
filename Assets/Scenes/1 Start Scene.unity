@@ -195,6 +195,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Scene Transition Manager
       objectReference: {fileID: 0}
+    - target: {fileID: 8841422738568278766, guid: b09d33c8b7830a34d89d176d138cba96,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b09d33c8b7830a34d89d176d138cba96, type: 3}
 --- !u!1 &79910497
@@ -3957,7 +3962,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 1060c7182011e0140b6238f69e8a8775, type: 3}
+  m_Sprite: {fileID: 21300000, guid: f7fc95854e3b72e4ea8bdce0a82b80c7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6579,7 +6584,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 107, y: -449}
+  m_AnchoredPosition: {x: 1, y: -449}
   m_SizeDelta: {x: 189.2, y: 51.9}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &122084618674232364

@@ -15,12 +15,12 @@ MonoBehaviour:
   m_LayerNames:
   - Default
   - Teleport
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - FC
+  - Body
+  - Motor
+  - Propeller
+  - Battery
+  - Camera
   - 
   - 
   - 
