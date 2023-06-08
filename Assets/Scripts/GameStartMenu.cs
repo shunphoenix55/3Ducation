@@ -9,6 +9,7 @@ public class GameStartMenu : MonoBehaviour
     public GameObject mainMenu;
     public GameObject options;
     public GameObject about;
+    public GameObject motorMenu;
 
     [Header("Main Menu Buttons")]
     public Button startButton;
@@ -43,7 +44,9 @@ public class GameStartMenu : MonoBehaviour
     public void StartGame()
     {
         HideAll();
-        SceneTransitionManager.singleton.GoToSceneAsync(1);
+        //SceneTransitionManager.singleton.GoToSceneAsync(1);
+        mainMenu.SetActive(false);
+        motorMenu.SetActive(true);
     }
 
     public void HideAll()
