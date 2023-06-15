@@ -35,4 +35,4 @@ If you encounter any issues or need assistance during the assembly process, refe
 Contributions to the VR Drone Assembly Software are welcome! If you have any ideas, bug fixes, or improvements, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
 
 ## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the software in accordance with the terms of the license.
+This project is licensed under the GNU General Public License v3.0
