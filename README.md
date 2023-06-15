@@ -28,8 +28,6 @@ The VR Drone Assembly Software offers customization options to tailor the learni
 Adjust the difficulty level: Choose from beginner, intermediate, or advanced difficulty settings to match your assembly skills.
 Customize pacing: Control the speed at which instructions are provided and progress through the assembly process.
 Choose drone configurations: Select from a variety of drone models and configurations to assemble and explore different designs.
-## Troubleshooting
-If you encounter any issues or need assistance during the assembly process, refer to the built-in troubleshooting guide. It provides step-by-step solutions to common assembly problems and errors. If the issue persists, please reach out to our support team at support@vrdronesoftware.com.
 
 ## Contributing
 Contributions to the VR Drone Assembly Software are welcome! If you have any ideas, bug fixes, or improvements, please submit a pull request. For major changes, please open an issue first to discuss the proposed changes.
